@@ -1,0 +1,86 @@
+[
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=12",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=11",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=10",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=9",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=8",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=7",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=6",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=5",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=4",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=3",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=2",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   },
+   {
+      "verb": "GET",
+      "url": "https://api.solume.io/metrics?item=Steem&interval=180m&targetCurrency=USDT&daysFilter=1&page=1",
+      "body": null,
+      "headers": null,
+      "withCredentials": false
+   }
+]
