@@ -1,0 +1,1193 @@
+{
+   "errors": [],
+   "requests": [
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=12",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 150,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512635880000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512646680000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512657480000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512657480000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512635880000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512646680000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512657480000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=11",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 139,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668280000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512679080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512689880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512700680000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512711480000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512722280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512733080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512743880000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668280000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512679080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512689880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512700680000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512711480000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512722280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512733080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512743880000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=10",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 145,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512765480000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512776280000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512787080000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512797880000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512808680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512819480000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1512830280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512765480000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512776280000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512787080000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512797880000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512808680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512819480000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1512830280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=9",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 145,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512841080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512851880000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512862680000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512873480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512884280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512895080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905880000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512841080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512851880000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512862680000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512873480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512884280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512895080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905880000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=8",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 138,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512981480000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512981480000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=7",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 137,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513024680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513035480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513046280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513057080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513067880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513078680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513089480000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513024680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513035480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513046280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513057080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513067880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513078680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513089480000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=6",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 179,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100280000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513111080000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513121880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513132680000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513143480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513154280000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513165080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513175880000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100280000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513111080000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513121880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513132680000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513143480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513154280000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513165080000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513175880000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=5",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 151,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186680000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513197480000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513208280000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513219080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513229880000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513240680000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513251480000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513262280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186680000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513197480000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513208280000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513219080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513229880000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513240680000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513251480000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513262280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=4",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 165,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513294680000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513305480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513316280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513327080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513337880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513348680000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513294680000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513305480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513316280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513327080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513337880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513348680000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=3",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 164,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359480000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513370280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513381080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513391880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513402680000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513413480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513424280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359480000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513370280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513381080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513391880000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513402680000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513413480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513424280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=2",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 146,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513478280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513478280000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cryptonex&interval=180m&targetCurrency=USDT&daysFilter=1&page=1",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:38:17.169Z",
+         "duration": 210,
+         "data": [
+            {
+               "id": "Cryptonex",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532280000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513543080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513553880000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513564680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513575480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513586280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513597080000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532280000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513543080000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513553880000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513564680000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513575480000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513586280000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513597080000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 1,
+                     "daily_social_volume_change_counts_over_time": 0.1,
+                     "today_daily_social_volume": 1,
+                     "daily_social_volume_change": 0.1,
+                     "today_daily_social_volume_twitter_counts_over_time": 1,
+                     "daily_social_volume_change_twitter_counts_over_time": 0.1
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      }
+   ]
+}

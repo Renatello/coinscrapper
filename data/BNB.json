@@ -1,0 +1,1901 @@
+{
+   "errors": [],
+   "requests": [
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=12",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 159,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512592500000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1512603300000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512614100000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1512624900000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512635700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512646500000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1512657300000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512592500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512603300000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512614100000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512624900000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512635700000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512646500000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512657300000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512592500000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512603300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512614100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512624900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512635700000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512646500000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512657300000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=11",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 160,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668100000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1512678900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512689700000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1512700500000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1512711300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512722100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512732900000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512743700000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668100000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512678900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512689700000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512700500000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512711300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512722100000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512732900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512743700000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512678900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512689700000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512700500000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512711300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512722100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512732900000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=10",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 145,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512765300000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1512776100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512786900000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512797700000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512808500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512819300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512830100000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512765300000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512776100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512786900000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512797700000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512808500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512819300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512830100000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512765300000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512776100000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512786900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512797700000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512808500000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512819300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512830100000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=9",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 154,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840900000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512851700000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512862500000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512873300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512884100000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512894900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512916500000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840900000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1512851700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512862500000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512873300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512884100000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512894900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905700000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512916500000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840900000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512851700000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512862500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512873300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512884100000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512894900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905700000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=8",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 176,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927300000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512938100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512948900000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512959700000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512970500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512981300000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512992100000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513002900000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513013700000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927300000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1512938100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512948900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512959700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512970500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512981300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512992100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513002900000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513013700000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512938100000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512948900000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512959700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512970500000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512981300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512992100000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513002900000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=7",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 147,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013700000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513024500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513035300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513046100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513056900000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513067700000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513078500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513089300000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013700000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513024500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513035300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513046100000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513056900000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513067700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513078500000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513089300000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013700000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513024500000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513035300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513046100000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513056900000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513067700000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513078500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513089300000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=6",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 161,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100100000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513110900000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513121700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513132500000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1513143300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513154100000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513164900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513175700000,
+                                 "count": 9
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100100000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513110900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513121700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513132500000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513143300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513154100000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513164900000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513175700000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100100000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513110900000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513121700000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513132500000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513143300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513154100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513164900000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513175700000,
+                                 "count": 5
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=5",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 160,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186500000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513197300000,
+                                 "count": 12
+                              },
+                              {
+                                 "time": 1513208100000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513218900000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513229700000,
+                                 "count": 12
+                              },
+                              {
+                                 "time": 1513240500000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513251300000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1513262100000,
+                                 "count": 7
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186500000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513197300000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513208100000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513218900000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513229700000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513240500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513251300000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1513262100000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186500000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513197300000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513208100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513218900000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513229700000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513240500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513251300000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513262100000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=4",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 176,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272900000,
+                                 "count": 12
+                              },
+                              {
+                                 "time": 1513283700000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513294500000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1513305300000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513316100000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513326900000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513337700000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1513348500000,
+                                 "count": 8
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272900000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513283700000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513294500000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513305300000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513316100000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513326900000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513337700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513348500000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272900000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513283700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513294500000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513305300000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513316100000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513326900000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513337700000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513348500000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=3",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 186,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359300000,
+                                 "count": 16
+                              },
+                              {
+                                 "time": 1513370100000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1513380900000,
+                                 "count": 18
+                              },
+                              {
+                                 "time": 1513391700000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513402500000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513413300000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513424100000,
+                                 "count": 12
+                              },
+                              {
+                                 "time": 1513434900000,
+                                 "count": 17
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359300000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513370100000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513380900000,
+                                 "count": 15
+                              },
+                              {
+                                 "time": 1513391700000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513402500000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513413300000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513424100000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513434900000,
+                                 "count": 11
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359300000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513370100000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513380900000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513391700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513402500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513413300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513424100000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513434900000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=2",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 177,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445700000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1513456500000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513467300000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513478100000,
+                                 "count": 19
+                              },
+                              {
+                                 "time": 1513488900000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513499700000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1513510500000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513521300000,
+                                 "count": 24
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445700000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513456500000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513467300000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513478100000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513488900000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513499700000,
+                                 "count": 17
+                              },
+                              {
+                                 "time": 1513510500000,
+                                 "count": 17
+                              },
+                              {
+                                 "time": 1513521300000,
+                                 "count": 18
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445700000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513456500000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513467300000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513478100000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1513488900000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513499700000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513510500000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513521300000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Binance-Coin&interval=180m&targetCurrency=USDT&daysFilter=1&page=1",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:00.837Z",
+         "duration": 147,
+         "data": [
+            {
+               "id": "Binance-Coin",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532100000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513542900000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1513553700000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513564500000,
+                                 "count": 18
+                              },
+                              {
+                                 "time": 1513575300000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513586100000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513596900000,
+                                 "count": 19
+                              },
+                              {
+                                 "time": 1513607700000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532100000,
+                                 "count": 17
+                              },
+                              {
+                                 "time": 1513542900000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513553700000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513564500000,
+                                 "count": 15
+                              },
+                              {
+                                 "time": 1513575300000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513586100000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513596900000,
+                                 "count": 14
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532100000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513542900000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513553700000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513564500000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513575300000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513586100000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513596900000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513607700000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 4,
+                     "daily_social_volume_change_counts_over_time": -0.7894736842105263,
+                     "today_daily_social_volume": 4,
+                     "daily_social_volume_change": -0.7894736842105263,
+                     "today_daily_social_volume_reddit_counts_over_time": 14,
+                     "daily_social_volume_change_reddit_counts_over_time": 0.4,
+                     "today_daily_social_volume_twitter_counts_over_time": 4,
+                     "daily_social_volume_change_twitter_counts_over_time": -0.2
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      }
+   ]
+}

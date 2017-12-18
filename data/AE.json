@@ -1,0 +1,1469 @@
+{
+   "errors": [],
+   "requests": [
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=12",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 152,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512592440000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1512603240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512614040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512624840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512635640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512646440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512657240000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512592440000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1512603240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512614040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512624840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512635640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512646440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512657240000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=11",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 171,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512678840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512689640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512700440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512711240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512722040000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512732840000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512678840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512689640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512700440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512711240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512722040000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512732840000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=10",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 145,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512765240000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512776040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512786840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512797640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512808440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512819240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512830040000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512765240000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512776040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512786840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512797640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512808440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512819240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512830040000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=9",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 146,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512851640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512862440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512873240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512884040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512894840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512916440000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512851640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512862440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512873240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512884040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512894840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512905640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512916440000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=8",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 144,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512938040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512948840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512959640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512970440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512981240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512992040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513002840000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512938040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512948840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512959640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512970440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512981240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512992040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513002840000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=7",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 153,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513024440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513035240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513046040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513056840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513067640000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513078440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513089240000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513024440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513035240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513046040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513056840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513067640000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513078440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513089240000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=6",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 142,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513110840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513121640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513132440000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513143240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513154040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513164840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513175640000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513175640000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513110840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513121640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513132440000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513143240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513154040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513164840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513175640000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=5",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 221,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513197240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513208040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513218840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513229640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513240440000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513197240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513208040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513218840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513229640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513240440000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=4",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 171,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272840000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513283640000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513294440000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513305240000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513316040000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513326840000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513337640000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513348440000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513283640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513294440000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513305240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513316040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513326840000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272840000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513283640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513294440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513305240000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513316040000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513326840000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513337640000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513348440000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=3",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 172,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359240000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513370040000,
+                                 "count": 17
+                              },
+                              {
+                                 "time": 1513380840000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513391640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513402440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513413240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513424040000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513434840000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513370040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513380840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513391640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513402440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513413240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513424040000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359240000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513370040000,
+                                 "count": 16
+                              },
+                              {
+                                 "time": 1513380840000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513391640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513402440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513413240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513424040000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513434840000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=2",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 154,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445640000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513456440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513467240000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513478040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513488840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513499640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513510440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513521240000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513456440000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513467240000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513478040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513488840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513499640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513510440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513521240000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445640000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513456440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513467240000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513478040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513488840000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513499640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513510440000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Aeternity&interval=180m&targetCurrency=USDT&daysFilter=1&page=1",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:34:05.988Z",
+         "duration": 384,
+         "data": [
+            {
+               "id": "Aeternity",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513542840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513553640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513564440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513575240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513586040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513596840000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513607640000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513596840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513607640000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513542840000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513553640000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513564440000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513575240000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513586040000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513596840000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 2,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 2,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 2,
+                     "daily_social_volume_change_reddit_counts_over_time": 1,
+                     "today_daily_social_volume_twitter_counts_over_time": 1,
+                     "daily_social_volume_change_twitter_counts_over_time": 0.1
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      }
+   ]
+}

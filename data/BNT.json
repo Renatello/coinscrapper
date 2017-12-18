@@ -1,0 +1,1785 @@
+{
+   "errors": [],
+   "requests": [
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=12",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 176,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581760000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512592560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512603360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512614160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512624960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512635760000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512646560000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512657360000,
+                                 "count": 10
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512592560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512603360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512614160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512624960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512635760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512646560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512657360000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512592560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512603360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512614160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512624960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512635760000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512646560000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512657360000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=11",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 175,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668160000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512678960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512689760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512700560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512711360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512722160000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512732960000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512689760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512700560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512711360000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512668160000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512678960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512689760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512700560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512711360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512722160000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512732960000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=10",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 292,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754560000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512765360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512776160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512786960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512797760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512808560000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512819360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512830160000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512776160000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754560000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512765360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512776160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512786960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512797760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512808560000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1512819360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512830160000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=9",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 151,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1512851760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512862560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512873360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512884160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512894960000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512905760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512916560000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512894960000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1512851760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512862560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512873360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512884160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512894960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512905760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512916560000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=8",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 152,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927360000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1512938160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512948960000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512959760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512970560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512981360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1512992160000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513002960000,
+                                 "count": 10
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512938160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512948960000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512959760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512970560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512981360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1512992160000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513002960000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927360000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512938160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512948960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512959760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512970560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1512981360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1512992160000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513002960000,
+                                 "count": 4
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=7",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 152,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013760000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513024560000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513035360000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513046160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513056960000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513067760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513078560000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513089360000,
+                                 "count": 34
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013760000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513024560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513035360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513046160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513056960000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513067760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513078560000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513089360000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513024560000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1513035360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513046160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513056960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513067760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513078560000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513089360000,
+                                 "count": 33
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=6",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 200,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100160000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513110960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513121760000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513132560000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513143360000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513154160000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513164960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513175760000,
+                                 "count": 13
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513121760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513132560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513143360000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513154160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513164960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513175760000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513100160000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513110960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513121760000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1513132560000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513143360000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513154160000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513164960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513175760000,
+                                 "count": 11
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=5",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 201,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186560000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513197360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513208160000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513218960000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513229760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513240560000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513251360000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513262160000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513197360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513208160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513218960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513229760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513240560000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513251360000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186560000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513197360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513208160000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513218960000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513229760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513240560000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513251360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513262160000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=4",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 201,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272960000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513283760000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513294560000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513305360000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513316160000,
+                                 "count": 9
+                              },
+                              {
+                                 "time": 1513326960000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513337760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513348560000,
+                                 "count": 21
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513283760000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513294560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513305360000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513316160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513326960000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513337760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513348560000,
+                                 "count": 9
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272960000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513283760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513294560000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513305360000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513316160000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513326960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513337760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513348560000,
+                                 "count": 12
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=3",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 149,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359360000,
+                                 "count": 11
+                              },
+                              {
+                                 "time": 1513370160000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1513380960000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513391760000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513402560000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513413360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513424160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513434960000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359360000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513370160000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513380960000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513391760000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513402560000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513413360000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359360000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513370160000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513380960000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513391760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513402560000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513413360000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513424160000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513434960000,
+                                 "count": 2
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=2",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 188,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513456560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513467360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513478160000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513488960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513499760000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1513510560000,
+                                 "count": 28
+                              },
+                              {
+                                 "time": 1513521360000,
+                                 "count": 38
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513478160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513488960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513499760000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513510560000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513521360000,
+                                 "count": 29
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513456560000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513467360000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513478160000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513488960000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513499760000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1513510560000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513521360000,
+                                 "count": 9
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Bancor&interval=180m&targetCurrency=USDT&daysFilter=1&page=1",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:36:18.652Z",
+         "duration": 162,
+         "data": [
+            {
+               "id": "Bancor",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532160000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1513542960000,
+                                 "count": 8
+                              },
+                              {
+                                 "time": 1513553760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513564560000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513575360000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513586160000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513596960000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1513607760000,
+                                 "count": 6
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532160000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1513542960000,
+                                 "count": 5
+                              },
+                              {
+                                 "time": 1513553760000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513564560000,
+                                 "count": 2
+                              },
+                              {
+                                 "time": 1513575360000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513586160000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513596960000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513607760000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513532160000,
+                                 "count": 6
+                              },
+                              {
+                                 "time": 1513542960000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513553760000,
+                                 "count": 0
+                              },
+                              {
+                                 "time": 1513564560000,
+                                 "count": 3
+                              },
+                              {
+                                 "time": 1513575360000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513586160000,
+                                 "count": 4
+                              },
+                              {
+                                 "time": 1513596960000,
+                                 "count": 1
+                              },
+                              {
+                                 "time": 1513607760000,
+                                 "count": 3
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 6,
+                     "daily_social_volume_change_counts_over_time": -0.14285714285714285,
+                     "today_daily_social_volume": 6,
+                     "daily_social_volume_change": -0.14285714285714285,
+                     "today_daily_social_volume_reddit_counts_over_time": 3,
+                     "daily_social_volume_change_reddit_counts_over_time": -0.5,
+                     "today_daily_social_volume_twitter_counts_over_time": 3,
+                     "daily_social_volume_change_twitter_counts_over_time": 2
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      }
+   ]
+}

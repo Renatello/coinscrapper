@@ -1,0 +1,1937 @@
+{
+   "errors": [],
+   "requests": [
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=12",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 142,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581580000,
+                                 "count": 60
+                              },
+                              {
+                                 "time": 1512592380000,
+                                 "count": 66
+                              },
+                              {
+                                 "time": 1512603180000,
+                                 "count": 75
+                              },
+                              {
+                                 "time": 1512613980000,
+                                 "count": 63
+                              },
+                              {
+                                 "time": 1512624780000,
+                                 "count": 72
+                              },
+                              {
+                                 "time": 1512635580000,
+                                 "count": 47
+                              },
+                              {
+                                 "time": 1512646380000,
+                                 "count": 49
+                              },
+                              {
+                                 "time": 1512657180000,
+                                 "count": 89
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581580000,
+                                 "count": 47
+                              },
+                              {
+                                 "time": 1512592380000,
+                                 "count": 52
+                              },
+                              {
+                                 "time": 1512603180000,
+                                 "count": 43
+                              },
+                              {
+                                 "time": 1512613980000,
+                                 "count": 51
+                              },
+                              {
+                                 "time": 1512624780000,
+                                 "count": 51
+                              },
+                              {
+                                 "time": 1512635580000,
+                                 "count": 29
+                              },
+                              {
+                                 "time": 1512646380000,
+                                 "count": 37
+                              },
+                              {
+                                 "time": 1512657180000,
+                                 "count": 61
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 96,
+                           "values": [
+                              {
+                                 "time": 1512581580000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1512592380000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1512603180000,
+                                 "count": 32
+                              },
+                              {
+                                 "time": 1512613980000,
+                                 "count": 12
+                              },
+                              {
+                                 "time": 1512624780000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1512635580000,
+                                 "count": 18
+                              },
+                              {
+                                 "time": 1512646380000,
+                                 "count": 12
+                              },
+                              {
+                                 "time": 1512657180000,
+                                 "count": 28
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=11",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 146,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512667980000,
+                                 "count": 110
+                              },
+                              {
+                                 "time": 1512678780000,
+                                 "count": 84
+                              },
+                              {
+                                 "time": 1512689580000,
+                                 "count": 79
+                              },
+                              {
+                                 "time": 1512700380000,
+                                 "count": 45
+                              },
+                              {
+                                 "time": 1512711180000,
+                                 "count": 45
+                              },
+                              {
+                                 "time": 1512721980000,
+                                 "count": 66
+                              },
+                              {
+                                 "time": 1512732780000,
+                                 "count": 53
+                              },
+                              {
+                                 "time": 1512743580000,
+                                 "count": 72
+                              },
+                              {
+                                 "time": 1512754380000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512667980000,
+                                 "count": 84
+                              },
+                              {
+                                 "time": 1512678780000,
+                                 "count": 61
+                              },
+                              {
+                                 "time": 1512689580000,
+                                 "count": 58
+                              },
+                              {
+                                 "time": 1512700380000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1512711180000,
+                                 "count": 22
+                              },
+                              {
+                                 "time": 1512721980000,
+                                 "count": 35
+                              },
+                              {
+                                 "time": 1512732780000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1512743580000,
+                                 "count": 42
+                              },
+                              {
+                                 "time": 1512754380000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 88,
+                           "values": [
+                              {
+                                 "time": 1512667980000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1512678780000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1512689580000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1512700380000,
+                                 "count": 19
+                              },
+                              {
+                                 "time": 1512711180000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1512721980000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1512732780000,
+                                 "count": 22
+                              },
+                              {
+                                 "time": 1512743580000,
+                                 "count": 30
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=10",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 147,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754380000,
+                                 "count": 93
+                              },
+                              {
+                                 "time": 1512765180000,
+                                 "count": 40
+                              },
+                              {
+                                 "time": 1512775980000,
+                                 "count": 47
+                              },
+                              {
+                                 "time": 1512786780000,
+                                 "count": 33
+                              },
+                              {
+                                 "time": 1512797580000,
+                                 "count": 32
+                              },
+                              {
+                                 "time": 1512808380000,
+                                 "count": 27
+                              },
+                              {
+                                 "time": 1512819180000,
+                                 "count": 33
+                              },
+                              {
+                                 "time": 1512829980000,
+                                 "count": 51
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754380000,
+                                 "count": 45
+                              },
+                              {
+                                 "time": 1512765180000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1512775980000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1512786780000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1512797580000,
+                                 "count": 15
+                              },
+                              {
+                                 "time": 1512808380000,
+                                 "count": 13
+                              },
+                              {
+                                 "time": 1512819180000,
+                                 "count": 18
+                              },
+                              {
+                                 "time": 1512829980000,
+                                 "count": 30
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 80,
+                           "values": [
+                              {
+                                 "time": 1512754380000,
+                                 "count": 48
+                              },
+                              {
+                                 "time": 1512765180000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1512775980000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1512786780000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1512797580000,
+                                 "count": 17
+                              },
+                              {
+                                 "time": 1512808380000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1512819180000,
+                                 "count": 15
+                              },
+                              {
+                                 "time": 1512829980000,
+                                 "count": 21
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=9",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 211,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840780000,
+                                 "count": 68
+                              },
+                              {
+                                 "time": 1512851580000,
+                                 "count": 76
+                              },
+                              {
+                                 "time": 1512862380000,
+                                 "count": 59
+                              },
+                              {
+                                 "time": 1512873180000,
+                                 "count": 41
+                              },
+                              {
+                                 "time": 1512883980000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1512894780000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1512905580000,
+                                 "count": 36
+                              },
+                              {
+                                 "time": 1512916380000,
+                                 "count": 42
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840780000,
+                                 "count": 45
+                              },
+                              {
+                                 "time": 1512851580000,
+                                 "count": 55
+                              },
+                              {
+                                 "time": 1512862380000,
+                                 "count": 40
+                              },
+                              {
+                                 "time": 1512873180000,
+                                 "count": 22
+                              },
+                              {
+                                 "time": 1512883980000,
+                                 "count": 14
+                              },
+                              {
+                                 "time": 1512894780000,
+                                 "count": 10
+                              },
+                              {
+                                 "time": 1512905580000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1512916380000,
+                                 "count": 27
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 72,
+                           "values": [
+                              {
+                                 "time": 1512840780000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1512851580000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1512862380000,
+                                 "count": 19
+                              },
+                              {
+                                 "time": 1512873180000,
+                                 "count": 19
+                              },
+                              {
+                                 "time": 1512883980000,
+                                 "count": 7
+                              },
+                              {
+                                 "time": 1512894780000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1512905580000,
+                                 "count": 15
+                              },
+                              {
+                                 "time": 1512916380000,
+                                 "count": 15
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=8",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 148,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927180000,
+                                 "count": 69
+                              },
+                              {
+                                 "time": 1512937980000,
+                                 "count": 63
+                              },
+                              {
+                                 "time": 1512948780000,
+                                 "count": 60
+                              },
+                              {
+                                 "time": 1512959580000,
+                                 "count": 67
+                              },
+                              {
+                                 "time": 1512970380000,
+                                 "count": 41
+                              },
+                              {
+                                 "time": 1512981180000,
+                                 "count": 34
+                              },
+                              {
+                                 "time": 1512991980000,
+                                 "count": 88
+                              },
+                              {
+                                 "time": 1513002780000,
+                                 "count": 58
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927180000,
+                                 "count": 42
+                              },
+                              {
+                                 "time": 1512937980000,
+                                 "count": 43
+                              },
+                              {
+                                 "time": 1512948780000,
+                                 "count": 40
+                              },
+                              {
+                                 "time": 1512959580000,
+                                 "count": 47
+                              },
+                              {
+                                 "time": 1512970380000,
+                                 "count": 25
+                              },
+                              {
+                                 "time": 1512981180000,
+                                 "count": 18
+                              },
+                              {
+                                 "time": 1512991980000,
+                                 "count": 56
+                              },
+                              {
+                                 "time": 1513002780000,
+                                 "count": 29
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 64,
+                           "values": [
+                              {
+                                 "time": 1512927180000,
+                                 "count": 27
+                              },
+                              {
+                                 "time": 1512937980000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1512948780000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1512959580000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1512970380000,
+                                 "count": 16
+                              },
+                              {
+                                 "time": 1512981180000,
+                                 "count": 16
+                              },
+                              {
+                                 "time": 1512991980000,
+                                 "count": 32
+                              },
+                              {
+                                 "time": 1513002780000,
+                                 "count": 29
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=7",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 145,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013580000,
+                                 "count": 52
+                              },
+                              {
+                                 "time": 1513024380000,
+                                 "count": 67
+                              },
+                              {
+                                 "time": 1513035180000,
+                                 "count": 50
+                              },
+                              {
+                                 "time": 1513045980000,
+                                 "count": 70
+                              },
+                              {
+                                 "time": 1513056780000,
+                                 "count": 45
+                              },
+                              {
+                                 "time": 1513067580000,
+                                 "count": 59
+                              },
+                              {
+                                 "time": 1513078380000,
+                                 "count": 55
+                              },
+                              {
+                                 "time": 1513089180000,
+                                 "count": 75
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013580000,
+                                 "count": 28
+                              },
+                              {
+                                 "time": 1513024380000,
+                                 "count": 36
+                              },
+                              {
+                                 "time": 1513035180000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1513045980000,
+                                 "count": 33
+                              },
+                              {
+                                 "time": 1513056780000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513067580000,
+                                 "count": 34
+                              },
+                              {
+                                 "time": 1513078380000,
+                                 "count": 33
+                              },
+                              {
+                                 "time": 1513089180000,
+                                 "count": 41
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 56,
+                           "values": [
+                              {
+                                 "time": 1513013580000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513024380000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1513035180000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513045980000,
+                                 "count": 37
+                              },
+                              {
+                                 "time": 1513056780000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513067580000,
+                                 "count": 25
+                              },
+                              {
+                                 "time": 1513078380000,
+                                 "count": 22
+                              },
+                              {
+                                 "time": 1513089180000,
+                                 "count": 34
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=6",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 154,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513099980000,
+                                 "count": 88
+                              },
+                              {
+                                 "time": 1513110780000,
+                                 "count": 60
+                              },
+                              {
+                                 "time": 1513121580000,
+                                 "count": 71
+                              },
+                              {
+                                 "time": 1513132380000,
+                                 "count": 54
+                              },
+                              {
+                                 "time": 1513143180000,
+                                 "count": 65
+                              },
+                              {
+                                 "time": 1513153980000,
+                                 "count": 57
+                              },
+                              {
+                                 "time": 1513164780000,
+                                 "count": 73
+                              },
+                              {
+                                 "time": 1513175580000,
+                                 "count": 102
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513099980000,
+                                 "count": 53
+                              },
+                              {
+                                 "time": 1513110780000,
+                                 "count": 33
+                              },
+                              {
+                                 "time": 1513121580000,
+                                 "count": 40
+                              },
+                              {
+                                 "time": 1513132380000,
+                                 "count": 34
+                              },
+                              {
+                                 "time": 1513143180000,
+                                 "count": 30
+                              },
+                              {
+                                 "time": 1513153980000,
+                                 "count": 36
+                              },
+                              {
+                                 "time": 1513164780000,
+                                 "count": 47
+                              },
+                              {
+                                 "time": 1513175580000,
+                                 "count": 74
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 48,
+                           "values": [
+                              {
+                                 "time": 1513099980000,
+                                 "count": 35
+                              },
+                              {
+                                 "time": 1513110780000,
+                                 "count": 27
+                              },
+                              {
+                                 "time": 1513121580000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1513132380000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1513143180000,
+                                 "count": 35
+                              },
+                              {
+                                 "time": 1513153980000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513164780000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1513175580000,
+                                 "count": 28
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=5",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 146,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186380000,
+                                 "count": 90
+                              },
+                              {
+                                 "time": 1513197180000,
+                                 "count": 104
+                              },
+                              {
+                                 "time": 1513207980000,
+                                 "count": 77
+                              },
+                              {
+                                 "time": 1513218780000,
+                                 "count": 70
+                              },
+                              {
+                                 "time": 1513229580000,
+                                 "count": 64
+                              },
+                              {
+                                 "time": 1513240380000,
+                                 "count": 51
+                              },
+                              {
+                                 "time": 1513251180000,
+                                 "count": 102
+                              },
+                              {
+                                 "time": 1513261980000,
+                                 "count": 244
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186380000,
+                                 "count": 62
+                              },
+                              {
+                                 "time": 1513197180000,
+                                 "count": 75
+                              },
+                              {
+                                 "time": 1513207980000,
+                                 "count": 52
+                              },
+                              {
+                                 "time": 1513218780000,
+                                 "count": 40
+                              },
+                              {
+                                 "time": 1513229580000,
+                                 "count": 34
+                              },
+                              {
+                                 "time": 1513240380000,
+                                 "count": 25
+                              },
+                              {
+                                 "time": 1513251180000,
+                                 "count": 68
+                              },
+                              {
+                                 "time": 1513261980000,
+                                 "count": 167
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 40,
+                           "values": [
+                              {
+                                 "time": 1513186380000,
+                                 "count": 28
+                              },
+                              {
+                                 "time": 1513197180000,
+                                 "count": 29
+                              },
+                              {
+                                 "time": 1513207980000,
+                                 "count": 25
+                              },
+                              {
+                                 "time": 1513218780000,
+                                 "count": 30
+                              },
+                              {
+                                 "time": 1513229580000,
+                                 "count": 30
+                              },
+                              {
+                                 "time": 1513240380000,
+                                 "count": 26
+                              },
+                              {
+                                 "time": 1513251180000,
+                                 "count": 34
+                              },
+                              {
+                                 "time": 1513261980000,
+                                 "count": 77
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=4",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 149,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272780000,
+                                 "count": 326
+                              },
+                              {
+                                 "time": 1513283580000,
+                                 "count": 296
+                              },
+                              {
+                                 "time": 1513294380000,
+                                 "count": 166
+                              },
+                              {
+                                 "time": 1513305180000,
+                                 "count": 99
+                              },
+                              {
+                                 "time": 1513315980000,
+                                 "count": 85
+                              },
+                              {
+                                 "time": 1513326780000,
+                                 "count": 78
+                              },
+                              {
+                                 "time": 1513337580000,
+                                 "count": 90
+                              },
+                              {
+                                 "time": 1513348380000,
+                                 "count": 119
+                              },
+                              {
+                                 "time": 1513359180000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272780000,
+                                 "count": 265
+                              },
+                              {
+                                 "time": 1513283580000,
+                                 "count": 239
+                              },
+                              {
+                                 "time": 1513294380000,
+                                 "count": 107
+                              },
+                              {
+                                 "time": 1513305180000,
+                                 "count": 76
+                              },
+                              {
+                                 "time": 1513315980000,
+                                 "count": 61
+                              },
+                              {
+                                 "time": 1513326780000,
+                                 "count": 54
+                              },
+                              {
+                                 "time": 1513337580000,
+                                 "count": 63
+                              },
+                              {
+                                 "time": 1513348380000,
+                                 "count": 66
+                              },
+                              {
+                                 "time": 1513359180000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 32,
+                           "values": [
+                              {
+                                 "time": 1513272780000,
+                                 "count": 61
+                              },
+                              {
+                                 "time": 1513283580000,
+                                 "count": 57
+                              },
+                              {
+                                 "time": 1513294380000,
+                                 "count": 59
+                              },
+                              {
+                                 "time": 1513305180000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1513315980000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513326780000,
+                                 "count": 24
+                              },
+                              {
+                                 "time": 1513337580000,
+                                 "count": 27
+                              },
+                              {
+                                 "time": 1513348380000,
+                                 "count": 53
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=3",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 152,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359180000,
+                                 "count": 88
+                              },
+                              {
+                                 "time": 1513369980000,
+                                 "count": 106
+                              },
+                              {
+                                 "time": 1513380780000,
+                                 "count": 93
+                              },
+                              {
+                                 "time": 1513391580000,
+                                 "count": 54
+                              },
+                              {
+                                 "time": 1513402380000,
+                                 "count": 39
+                              },
+                              {
+                                 "time": 1513413180000,
+                                 "count": 116
+                              },
+                              {
+                                 "time": 1513423980000,
+                                 "count": 107
+                              },
+                              {
+                                 "time": 1513434780000,
+                                 "count": 111
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359180000,
+                                 "count": 59
+                              },
+                              {
+                                 "time": 1513369980000,
+                                 "count": 56
+                              },
+                              {
+                                 "time": 1513380780000,
+                                 "count": 62
+                              },
+                              {
+                                 "time": 1513391580000,
+                                 "count": 23
+                              },
+                              {
+                                 "time": 1513402380000,
+                                 "count": 20
+                              },
+                              {
+                                 "time": 1513413180000,
+                                 "count": 65
+                              },
+                              {
+                                 "time": 1513423980000,
+                                 "count": 68
+                              },
+                              {
+                                 "time": 1513434780000,
+                                 "count": 80
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 24,
+                           "values": [
+                              {
+                                 "time": 1513359180000,
+                                 "count": 29
+                              },
+                              {
+                                 "time": 1513369980000,
+                                 "count": 50
+                              },
+                              {
+                                 "time": 1513380780000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1513391580000,
+                                 "count": 31
+                              },
+                              {
+                                 "time": 1513402380000,
+                                 "count": 19
+                              },
+                              {
+                                 "time": 1513413180000,
+                                 "count": 51
+                              },
+                              {
+                                 "time": 1513423980000,
+                                 "count": 39
+                              },
+                              {
+                                 "time": 1513434780000,
+                                 "count": 31
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=2",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 164,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445580000,
+                                 "count": 311
+                              },
+                              {
+                                 "time": 1513456380000,
+                                 "count": 253
+                              },
+                              {
+                                 "time": 1513467180000,
+                                 "count": 368
+                              },
+                              {
+                                 "time": 1513477980000,
+                                 "count": 174
+                              },
+                              {
+                                 "time": 1513488780000,
+                                 "count": 344
+                              },
+                              {
+                                 "time": 1513499580000,
+                                 "count": 238
+                              },
+                              {
+                                 "time": 1513510380000,
+                                 "count": 276
+                              },
+                              {
+                                 "time": 1513521180000,
+                                 "count": 326
+                              },
+                              {
+                                 "time": 1513531980000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445580000,
+                                 "count": 213
+                              },
+                              {
+                                 "time": 1513456380000,
+                                 "count": 187
+                              },
+                              {
+                                 "time": 1513467180000,
+                                 "count": 284
+                              },
+                              {
+                                 "time": 1513477980000,
+                                 "count": 152
+                              },
+                              {
+                                 "time": 1513488780000,
+                                 "count": 229
+                              },
+                              {
+                                 "time": 1513499580000,
+                                 "count": 203
+                              },
+                              {
+                                 "time": 1513510380000,
+                                 "count": 226
+                              },
+                              {
+                                 "time": 1513521180000,
+                                 "count": 243
+                              },
+                              {
+                                 "time": 1513531980000,
+                                 "count": 1
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 16,
+                           "values": [
+                              {
+                                 "time": 1513445580000,
+                                 "count": 98
+                              },
+                              {
+                                 "time": 1513456380000,
+                                 "count": 66
+                              },
+                              {
+                                 "time": 1513467180000,
+                                 "count": 84
+                              },
+                              {
+                                 "time": 1513477980000,
+                                 "count": 22
+                              },
+                              {
+                                 "time": 1513488780000,
+                                 "count": 115
+                              },
+                              {
+                                 "time": 1513499580000,
+                                 "count": 35
+                              },
+                              {
+                                 "time": 1513510380000,
+                                 "count": 50
+                              },
+                              {
+                                 "time": 1513521180000,
+                                 "count": 83
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 0,
+                     "daily_social_volume_change_counts_over_time": 0,
+                     "today_daily_social_volume": 0,
+                     "daily_social_volume_change": 0,
+                     "today_daily_social_volume_reddit_counts_over_time": 0,
+                     "daily_social_volume_change_reddit_counts_over_time": 0,
+                     "today_daily_social_volume_twitter_counts_over_time": 0,
+                     "daily_social_volume_change_twitter_counts_over_time": 0
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      },
+      {
+         "request": {
+            "url": "https://api.solume.io/metrics?item=Cardano&interval=180m&targetCurrency=USDT&daysFilter=1&page=1",
+            "method": "GET",
+            "data": null,
+            "headers": {},
+            "withCredentials": false,
+            "isHandledXhrRequest": true
+         },
+         "start": "2017-12-18T17:33:34.904Z",
+         "duration": 165,
+         "data": [
+            {
+               "id": "Cardano",
+               "metrics": {
+                  "counts_over_time": {
+                     "type": "counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513531980000,
+                                 "count": 208
+                              },
+                              {
+                                 "time": 1513542780000,
+                                 "count": 207
+                              },
+                              {
+                                 "time": 1513553580000,
+                                 "count": 159
+                              },
+                              {
+                                 "time": 1513564380000,
+                                 "count": 139
+                              },
+                              {
+                                 "time": 1513575180000,
+                                 "count": 113
+                              },
+                              {
+                                 "time": 1513585980000,
+                                 "count": 118
+                              },
+                              {
+                                 "time": 1513596780000,
+                                 "count": 139
+                              },
+                              {
+                                 "time": 1513607580000,
+                                 "count": 77
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "reddit_counts_over_time": {
+                     "type": "reddit_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513531980000,
+                                 "count": 151
+                              },
+                              {
+                                 "time": 1513542780000,
+                                 "count": 161
+                              },
+                              {
+                                 "time": 1513553580000,
+                                 "count": 138
+                              },
+                              {
+                                 "time": 1513564380000,
+                                 "count": 88
+                              },
+                              {
+                                 "time": 1513575180000,
+                                 "count": 85
+                              },
+                              {
+                                 "time": 1513585980000,
+                                 "count": 57
+                              },
+                              {
+                                 "time": 1513596780000,
+                                 "count": 106
+                              },
+                              {
+                                 "time": 1513607580000,
+                                 "count": 37
+                              }
+                           ]
+                        }
+                     }
+                  },
+                  "twitter_counts_over_time": {
+                     "type": "twitter_counts_over_time",
+                     "values": {
+                        "180m": {
+                           "totalQueried": 8,
+                           "values": [
+                              {
+                                 "time": 1513531980000,
+                                 "count": 57
+                              },
+                              {
+                                 "time": 1513542780000,
+                                 "count": 46
+                              },
+                              {
+                                 "time": 1513553580000,
+                                 "count": 21
+                              },
+                              {
+                                 "time": 1513564380000,
+                                 "count": 51
+                              },
+                              {
+                                 "time": 1513575180000,
+                                 "count": 28
+                              },
+                              {
+                                 "time": 1513585980000,
+                                 "count": 61
+                              },
+                              {
+                                 "time": 1513596780000,
+                                 "count": 33
+                              },
+                              {
+                                 "time": 1513607580000,
+                                 "count": 40
+                              }
+                           ]
+                        }
+                     }
+                  }
+               },
+               "social": {
+                  "180m": {
+                     "today_daily_social_volume_counts_over_time": 77,
+                     "daily_social_volume_change_counts_over_time": -0.4460431654676259,
+                     "today_daily_social_volume": 77,
+                     "daily_social_volume_change": -0.4460431654676259,
+                     "today_daily_social_volume_reddit_counts_over_time": 37,
+                     "daily_social_volume_change_reddit_counts_over_time": -0.6509433962264151,
+                     "today_daily_social_volume_twitter_counts_over_time": 40,
+                     "daily_social_volume_change_twitter_counts_over_time": 0.21212121212121213
+                  }
+               }
+            }
+         ],
+         "status": 200,
+         "isSuccess": true
+      }
+   ]
+}
